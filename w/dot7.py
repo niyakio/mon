@@ -11,7 +11,7 @@ from colorama import Fore, init
 init(autoreset=True)
 
 # Giá trị mặc định cố định
-URL = "https://animevietsub.ru/"  # Thay đổi URL nếu cần
+URL = "https://ho88ads.vip/"  # Thay đổi URL nếu cần
 TOTAL_REQUESTS = 100000000000000000000     # Tổng số request mỗi đợt
 CONCURRENCY = 10000        # Số lượng thread chạy đồng thời
 PROXY_URL = None             # Đặt proxy nếu cần, ví dụ: "http://proxy:port"
