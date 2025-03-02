@@ -5,7 +5,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 URL = "https://animevietsub.ru"  # THAY ĐỔI URL
 REQUESTS = 100000000000000000000
-CONCURRENCY = 10
+CONCURRENCY = 1000000
 
 def make_request():
     """Hàm thực hiện một request duy nhất"""
