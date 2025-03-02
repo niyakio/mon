@@ -3,9 +3,9 @@ import threading
 import time
 from concurrent.futures import ThreadPoolExecutor
 
-URL = "www.i9bet52.life"  # THAY ĐỔI URL
-REQUESTS = 10000
-CONCURRENCY = 1000
+URL = "https://anime2.site/"  # THAY ĐỔI URL
+REQUESTS = 100000
+CONCURRENCY = 100000
 
 def make_request():
     """Hàm thực hiện một request duy nhất"""
